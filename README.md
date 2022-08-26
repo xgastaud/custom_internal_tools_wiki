@@ -2,7 +2,7 @@
 
 **What are custom internal tools?**
 - Anything that is not "client-facing" can be classified as an "internal tool"
-- 'Standardized' internal tools support 'standardized' company processes: CRMs, Helpdesk & Ticketing tools, Data vizualization tools, etc.
+- 'Standardized' internal tools support 'standardized' company processes: CRM, Helpdesk & Ticketing, Data vizualization, etc.
 - 'Custom' internal tools support 'custom' company processes: company internal home page, app admin panels, etc.
 
 ...Simple, right?
