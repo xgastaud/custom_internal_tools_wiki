@@ -10,8 +10,9 @@ What are they used for?
 - https://budibase.com/internal-tools/#:~:text=Internal%20tools%20are%20internally%2Dfacing,early%20days%20of%20software%20development.
 - https://backendless.com/what-are-internal-tools-the-ultimate-guide/
 - https://www.dronahq.com/building-internal-tools/
+Still following? Where do I find them?
 
-Tool directory
+Custom Internal Tools directory
 
 Framework agnostic solutions (by order of crunchbase funding)
 - Retool (https://retool.com/)
