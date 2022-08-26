@@ -5,7 +5,7 @@
 - 'Standardized' internal tools support 'standardized' company processes: CRMs, Helpdesk & Ticketing tools, Data vizualization tools, etc.
 - 'Custom' internal tools support 'custom' company processes: company internal home page, app admin panels, etc.
 
-Simple, right?
+...Simple, right?
 
 
 **What are they used for?**
@@ -13,9 +13,9 @@ Simple, right?
 - https://backendless.com/what-are-internal-tools-the-ultimate-guide/
 - https://www.dronahq.com/building-internal-tools/
 
-Still following?
+...Still following?
 
-**Buy or build decision**
+**Make or Buy decision**
 [Pending]
 
 **Custom Internal Tools common myths**
@@ -35,7 +35,7 @@ _Framework specific solutions_
 - Active Admin
 - Django Admin
 
-Is it that easy?
+...What else do I need to know?
 
 **Feedback from companies that have built custom internal tools**
 - https://medium.com/monese/building-tools-for-teams-how-weve-built-the-internal-tools-that-help-us-help-our-customers-7dbfce4be390
