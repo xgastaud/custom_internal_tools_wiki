@@ -52,6 +52,6 @@ _Framework specific solutions_
 ...What else do I need to know?
 
 
-**Feedback from companies that have built custom internal tools**
+**Feedback from companies that have built CITs**
 - https://medium.com/monese/building-tools-for-teams-how-weve-built-the-internal-tools-that-help-us-help-our-customers-7dbfce4be390
 - https://medium.com/agileinsider/lessons-learned-from-building-internal-tools-463c779af2e4
