@@ -1,4 +1,4 @@
-# internal_tools_wiki
+# Custom Internal Tools Wiki
 
 What are custom internal tools?
 - Anything that is not "client-facing" can be classified as an "internal tool"
