@@ -15,14 +15,17 @@
 
 ...Still following?
 
+**DIY, low code or no code?**
+- [Coming soon]
+
 **Make or Buy decision**
-[Pending]
+- [Coming soon]
 
 **Custom Internal Tools common myths**
-- Myth #1 - My app is too specific. I need a home-made admin
-- Myth #2 - I’ll build my admin panel in one week!
-- Myth #3 — My homebrewed admin panel works fine, thanks!
-- Myth #4 — I would never externalize my admin panel’s development
+- Myth #1 - My app is too specific. I need a home-made admin (https://blog.forestadmin.com/myth-1-my-app-is-too-specific-i-need-a-home-made-admin/)
+- Myth #2 - I’ll build my admin panel in one week! (https://blog.forestadmin.com/myth-2-ill-build-my-admin-in-one-week/)
+- Myth #3 — My homebrewed admin panel works fine, thanks! (https://blog.forestadmin.com/myth--3---my-homebrewed-admin-panel-works-fine--thanks-/)
+- Myth #4 — I would never externalize my admin panel’s development (https://blog.forestadmin.com/myth--4---i-would-never-externalize-my-admin-panel-s-development/)
 
 **Custom Internal Tools directory**
 
