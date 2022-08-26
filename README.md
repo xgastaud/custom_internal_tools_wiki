@@ -9,7 +9,7 @@
 
 
 **What are they used for?**
-- https://budibase.com/internal-tools/#:~:text=Internal%20tools%20are%20internally%2Dfacing,early%20days%20of%20software%20development.
+- https://budibase.com/internal-tools/
 - https://backendless.com/what-are-internal-tools-the-ultimate-guide/
 - https://www.dronahq.com/building-internal-tools/
 
