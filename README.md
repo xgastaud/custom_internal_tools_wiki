@@ -19,7 +19,10 @@
 [Pending]
 
 **Custom Internal Tools common myths**
-- 
+- Myth #1 - My app is too specific. I need a home-made admin
+- Myth #2 - I’ll build my admin panel in one week!
+- Myth #3 — My homebrewed admin panel works fine, thanks!
+- Myth #4 — I would never externalize my admin panel’s development
 
 **Custom Internal Tools directory**
 
