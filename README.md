@@ -41,9 +41,10 @@ _Framework agnostic solutions (by order of crunchbase funding)_
 - Jetadmin (https://www.jetadmin.io/)
 
 _Framework specific solutions_
-- Rails Admin
-- Active Admin
-- Django Admin
+- Rails Admin (https://github.com/railsadminteam/rails_admin)
+- Active Admin (https://activeadmin.info/)
+- Django Admin (https://realpython.com/customize-django-admin-python/#:~:text=The%20Django%20admin%20is%20a,models%20with%20the%20Django%20admin)
+- Laravel Nova (https://nova.laravel.com/)
 
 ...What else do I need to know?
 
