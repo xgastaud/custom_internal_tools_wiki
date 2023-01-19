@@ -3,7 +3,7 @@
 **What are Custom Internal Tools ("CITs")?**
 - Anything that is not "client-facing" can be classified as an "internal tool"
 - 'Standardized' internal tools support 'standardized' company processes: CRM, Helpdesk & Ticketing, Content Management, Applicant tracking, Business Intelligence, etc.
-- 'Custom' internal tools support 'custom' company processes; these are intimitaly related to the way the business is run, how big/small internal teams are, how the company's apps and db are structured (monolith vs microservices, internally developped vs commercial services, etc.); they cover a broad range of needs: RBAC management, approval workflows, data management, etc.
+- 'Custom' internal tools support 'custom' company processes; these are intimitaly related to the way the business is run, how big/small internal teams are, how the company's apps and db are structured (monolith vs microservices, internally developped vs commercial services, etc.); they cover a broad range of needs: RBAC management, approval workflows, data management, etc.; powerful internal tools allow companies to reconcile under the same roof data coming from different sources and are like an airplane cockpit for users.
 
 ...Simple, right?
 
