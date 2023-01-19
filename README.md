@@ -38,6 +38,7 @@
 _Framework agnostic solutions (by order of crunchbase funding)_
 - Retool (https://retool.com/)
 - Appsmith (https://www.appsmith.com/)
+- Superblocks (https://www.superblocks.com/)
 - Forest Admin (https://www.forestadmin.com/)
 - Internal (https://www.internal.io/)
 - DronaHQ (https://www.dronahq.com/)
