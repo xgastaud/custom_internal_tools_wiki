@@ -43,6 +43,8 @@ _Framework agnostic solutions (by order of crunchbase funding)_
 - Internal (https://www.internal.io/)
 - DronaHQ (https://www.dronahq.com/)
 - Jetadmin (https://www.jetadmin.io/)
+- Budibase (https://budibase.com/)
+- Airplane (https://www.airplane.dev/)
 
 _Framework specific solutions_
 - Rails Admin (https://github.com/railsadminteam/rails_admin)
