@@ -43,7 +43,7 @@ _Framework agnostic solutions (by order of crunchbase funding)_
 - Appsmith (https://www.appsmith.com/)
 - Superblocks (https://www.superblocks.com/)
 - Forest Admin (https://www.forestadmin.com/)
-- Internal (https://www.internal.io/)
+- Internal (https://www.internal.io/) [RIP Dec. 2023]
 - DronaHQ (https://www.dronahq.com/)
 - Jetadmin (https://www.jetadmin.io/)
 - Budibase (https://budibase.com/)
